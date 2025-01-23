@@ -2,7 +2,7 @@
 """Making Change."""
 
 
-def makingChange(coins, total):
+def makeChange(coins, total):
     """Determines the fewest number of coins needed to meet a given amount
     total when given a pile of coins of different values."""
     if total <= 0:
